@@ -28,7 +28,7 @@ const Footer = () => {
               <a href="#">Book-IT</a>
             </p>
             <p>
-              <a href="https://akshatjalan.github.io/akshat/">Portfolio</a>
+              <a href="https://github.com/yasaswini1">Portfolio</a>
             </p>
           </MDBCol>
 
@@ -43,7 +43,7 @@ const Footer = () => {
             <p>
               <a
                 className="btn-floating btn-sm rgba-white-slight mx-1"
-                href="https://www.linkedin.com/in/akshat-jalan/"
+                href="https://www.linkedin.com/in/yasaswini-kakumanu-03a331241/"
               >
                 <i className="fab fa-linkedin-in" /> &nbsp;LinkedIn
               </a>
@@ -64,7 +64,7 @@ const Footer = () => {
                 <li className="list-inline-item">
                   <a
                     className="btn-floating btn-sm rgba-white-slight mx-1"
-                    href="http://github.com/Akshatjalan"
+                    href="https://github.com/yasaswini1"
                   >
                     <i className="fab fa-github" />
                   </a>
@@ -72,19 +72,12 @@ const Footer = () => {
                 <li className="list-inline-item">
                   <a
                     className="btn-floating btn-sm rgba-white-slight mx-1"
-                    href="https://www.linkedin.com/in/akshat-jalan/"
+                    href="https://www.linkedin.com/in/yasaswini-kakumanu-03a331241/"
                   >
                     <i className="fab fa-linkedin-in" />
                   </a>
                 </li>
-                <li className="list-inline-item">
-                  <a
-                    className="btn-floating btn-sm rgba-white-slight mx-1"
-                    href="https://www.instagram.com/akshatxjalan/"
-                  >
-                    <i className="fab fa-instagram" />
-                  </a>
-                </li>
+                
               </ul>
             </div>
           </MDBCol>
